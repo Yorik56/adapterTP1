@@ -1,0 +1,1 @@
+package com.tactfactory.designpattern.adapter.tp1;
